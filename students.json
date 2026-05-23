@@ -1,0 +1,72 @@
+[
+  {
+    "id": "101",
+    "name": "Anu",
+    "age": "21",
+    "course": "BCA",
+    "phone": "9876543210"
+  },
+  {
+    "id": "102",
+    "name": "Shalini",
+    "age": "22",
+    "course": "MCA",
+    "phone": "9876501234"
+  },
+  {
+    "id": "103",
+    "name": "Sharnithaa",
+    "age": "20",
+    "course": "B.Tech",
+    "phone": "9876512345"
+  },
+  {
+    "id": "104",
+    "name": "Sharmila",
+    "age": "23",
+    "course": "MBA",
+    "phone": "9876523456"
+  },
+  {
+    "id": "105",
+    "name": "Harini",
+    "age": "21",
+    "course": "B.Sc IT",
+    "phone": "9876534567"
+  },
+  {
+    "id": "106",
+    "name": "Nandhini",
+    "age": "22",
+    "course": "B.Com",
+    "phone": "9876545678"
+  },
+  {
+    "id": "107",
+    "name": "Santhiya",
+    "age": "24",
+    "course": "M.Tech",
+    "phone": "9876556789"
+  },
+  {
+    "id": "108",
+    "name": "Swetha",
+    "age": "20",
+    "course": "BBA",
+    "phone": "9876567890"
+  },
+  {
+    "id": "109",
+    "name": "Baranitha",
+    "age": "23",
+    "course": "BCA",
+    "phone": "9876578901"
+  },
+  {
+    "id": "110",
+    "name": "Anandhi",
+    "age": "21",
+    "course": "MCA",
+    "phone": "9876589012"
+  }
+]

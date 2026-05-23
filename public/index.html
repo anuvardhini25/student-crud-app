@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student CRUD App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🎓 Student CRUD Application</h1>
+
+    <input type="hidden" id="studentHiddenId">
+
+    <div class="form-group">
+
+        <input type="number" id="studentId" placeholder="Enter Student ID">
+
+        <input type="text" id="name" placeholder="Enter Student Name">
+
+        <input type="number" id="age" placeholder="Enter Age">
+
+        <input type="text" id="course" placeholder="Enter Course">
+
+        <input type="text" id="phone" placeholder="Enter Phone Number">
+
+        <button onclick="saveStudent()">Save Student</button>
+
+    </div>
+
+    <table>
+
+        <thead>
+
+        <tr>
+
+            <th>ID</th>
+
+            <th>Name</th>
+
+            <th>Age</th>
+
+            <th>Course</th>
+
+            <th>Phone</th>
+
+            <th>Actions</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody id="studentList"></tbody>
+
+    </table>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
