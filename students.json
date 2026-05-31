@@ -1,26 +1,5 @@
 [
   {
-    "id": "101",
-    "name": "Anu",
-    "age": "21",
-    "course": "BCA",
-    "phone": "9876543210"
-  },
-  {
-    "id": "102",
-    "name": "Shalini",
-    "age": "22",
-    "course": "MCA",
-    "phone": "9876501234"
-  },
-  {
-    "id": "103",
-    "name": "Sharnithaa",
-    "age": "20",
-    "course": "B.Tech",
-    "phone": "9876512345"
-  },
-  {
     "id": "104",
     "name": "Sharmila",
     "age": "23",
