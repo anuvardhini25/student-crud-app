@@ -29,6 +29,35 @@ Backend
 Database
 
 - JSON File Storage ("students.json")
+- 
+
+## Screenshots
+
+### Application Home Page
+
+![Student CRUD Application](student_crud_screenshots/student-crud-application.jpeg)
+
+### Student Data Entry Form
+
+![Student Data Entry](student_crud_screenshots/data_entry.jpeg)
+
+### Student Details View
+
+![Student Details](student_crud_screenshots/student_details.jpeg)
+
+### Edit Student Information
+
+![Edit Student](student_crud_screenshots/student_edit.jpeg)
+
+### Delete Student Record
+
+![Delete Student](student_crud_screenshots/student_delete.jpeg)
+
+### Application Working Demonstration
+
+![Application Working](student_crud_screenshots/student_crud_working.jpeg)
+
+
 
 Key Features
 
